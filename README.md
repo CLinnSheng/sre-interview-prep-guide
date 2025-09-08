@@ -21,7 +21,7 @@ Contributions are always welcome!
 
 ### Boot Process
 
-- [ ] [How Does Linux Boot Process Work?](https://youtu.be/XpFsMB6FoOs)
+- [x] [How Does Linux Boot Process Work?](https://youtu.be/XpFsMB6FoOs)
 - [ ] [An introduction to the Linux boot and startup processes](https://opensource.com/article/17/2/linux-boot-and-startup)
 - [ ] [What happens when we turn on computer?](https://www.geeksforgeeks.org/what-happens-when-we-turn-on-computer/)
 - [ ] [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)
@@ -29,8 +29,8 @@ Contributions are always welcome!
 
 ### Filesystem
 
-- [ ] [Understanding Inodes](https://syedali.net/2015/02/08/understanding-inodes)
-- [ ] [Understand UNIX / Linux Inodes Basics with Examples](https://www.thegeekstuff.com/2012/01/linux-inodes)
+- [x] [Understanding Inodes](https://syedali.net/2015/02/08/understanding-inodes)
+- [x] [Understand UNIX / Linux Inodes Basics with Examples](https://www.thegeekstuff.com/2012/01/linux-inodes)
 - [ ] [Understanding proc filesystem](https://syedali.net/2013/08/20/understanding-proc-filesystem)
 - [ ] [Common Mount Options](https://syedali.net/2015/01/06/common-mount-options)
 - [ ] [Understanding Linux filesystems: ext4 and beyond](https://opensource.com/article/18/4/ext4-filesystem)
